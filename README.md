@@ -2,6 +2,9 @@
 # ISW3-UNLa-Aulas
 Aplicación web encargada de administrar la asignación de aulas a estudiantes de la UNLa para los edificios Ortiz, Jauretche y Ugarte.
 
+##Objetivo final de la aplicación
+Se nos solicita como estudiantes de Sistemas de la UNLa, desarrollar una aplicación que permita la correcta gestión y asignación de aulas a las diferentes materias de la carrera con el fin de resolver la problematica y demora que conlleva dicha acción a inicios de los cuatrimestres.
+
 ## Teconolgía utilizada
 REACT.JS
 
