@@ -2,6 +2,9 @@
 # ISW3-UNLa-Aulas
 Aplicación web encargada de administrar la asignación de aulas a estudiantes de la UNLa para los edificios Ortiz, Jauretche y Ugarte.
 
+## Teconolgía utilizada
+REACT.JS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
